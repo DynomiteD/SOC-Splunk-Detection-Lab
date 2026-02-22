@@ -80,34 +80,19 @@ These logs confirm endpoint visibility necessary for threat detection use cases.
 
 
 
-\## Screenshots
+## Screenshots
 
+### PowerShell Script Block Logging (Event ID 4104)
+![PowerShell 4104](powershell-eventid-4104.png)
 
+### Sysmon Event ID 1 – Process Creation
+![Sysmon 1](sysmon-eventid-1.png)
 
-\### PowerShell Script Block Logging (Event ID 4104)
+### Sysmon Event ID 3 – Network Connection
+![Sysmon 3](sysmon-eventid-3.png)
 
-!\[PowerShell 4104](./powershell-eventid-4104.png)
-
-
-
-\### Sysmon Event ID 1 – Process Creation
-
-!\[Sysmon 1](./sysmon-eventid-1.png)
-
-
-
-\### Sysmon Event ID 3 – Network Connection
-
-!\[Sysmon 3](./sysmon-eventid-3.png)
-
-
-
-\### Sysmon Event ID 22 – DNS Query
-
-!\[Sysmon 22](./sysmon-eventid-22.png)
-
-
-
+### Sysmon Event ID 22 – DNS Query
+![Sysmon 22](sysmon-eventid-22.png)
 ---
 
 
@@ -159,4 +144,5 @@ This lab will be expanded to include:
 Author: Douglas Darrell  
 
 U.S. Army Veteran | Cybersecurity Analyst
+
 
